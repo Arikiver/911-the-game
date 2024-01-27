@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Object9",
+  "name": "Object10",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -25,10 +25,7 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": {
-    "name": "t4",
-    "path": "sprites/t4/t4.yy",
-  },
+  "spriteId": null,
   "spriteMaskId": null,
   "visible": true,
 }

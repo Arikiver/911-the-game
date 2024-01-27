@@ -3,15 +3,15 @@
 
 if(keyboard_check(vk_right))
 {
-	x += 30;
+	x += 10;
 	sprite_index = spr_run;
-	image_xscale = 1.5;
+	image_xscale = 2;
 }
 else if(keyboard_check(vk_left))
 {
-	x -= 30;
+	x -= 10;
 	sprite_index = spr_run;
-	image_xscale = -1.5;
+	image_xscale = -2;
 }
 else
 {

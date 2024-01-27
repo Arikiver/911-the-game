@@ -25,7 +25,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "t3",
+    "path": "sprites/t3/t3.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }
