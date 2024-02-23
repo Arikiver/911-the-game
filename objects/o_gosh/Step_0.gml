@@ -1,22 +1,35 @@
- /// @description Insert description here
-// You can write your code in this editor
+/// @description movement
 
 vsp = vsp+grv;
 
 
 if(keyboard_check(ord("D")))
 {
+	if(keyboard_check(ord("E")))
+	{
+		sprite_index = shine_run;
+	}
+	else
+	{
+		sprite_index = spr_run;
+	}
 	x += 10;
-	sprite_index = spr_run;
 	image_xscale = 2;
 }
 else if(keyboard_check(ord("A")))
 {
+	if(keyboard_check(ord("E")))
+	{
+		sprite_index = shine_run;
+	}
+	else
+	{
+		sprite_index = spr_run;
+	}
 	x -= 10;
-	sprite_index = spr_run;
 	image_xscale = -2;
 }
-else if(keyboard_check(vk_space)&& place_meeting(x,y+1,block))
+else if(keyboard_check_pressed(vk_space)&& place_meeting(x,y+1,block))
 {
 	vsp -= 20;
 }

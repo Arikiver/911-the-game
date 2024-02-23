@@ -1,14 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-if(mirror.x-o_gosh.x<=1000){
-	x -= 5;
-}
-
-
-
-
-
-
-
-
+audio_play_sound(Sound1,10,true);

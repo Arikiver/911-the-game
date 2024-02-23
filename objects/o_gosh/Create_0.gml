@@ -3,6 +3,8 @@
 
 hp = 50;
 hp_max = hp;
+score = 0;
+n = false;
 
 healthbar_width = 345;
 healthbar_height = 14;

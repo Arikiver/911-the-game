@@ -14,6 +14,9 @@
   "For3D": false,
   "frames": [
     {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"76b8362f-b1a1-4fa3-a8be-580c6e30abdd",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"759b1162-9c5d-4034-9a42-5cb431584b23",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5b1d81d3-d446-469c-acae-d2c6d534d40e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"7039695f-f407-4639-b3c5-931b2d6c2581",},
   ],
   "gridX": 0,
   "gridY": 0,
@@ -43,11 +46,11 @@
     "events": {"resourceType":"KeyframeStore<MessageEventKeyframe>","resourceVersion":"1.0","Keyframes":[],},
     "eventStubScript": null,
     "eventToFunction": {},
-    "length": 1.0,
+    "length": 4.0,
     "lockOrigin": false,
     "moments": {"resourceType":"KeyframeStore<MomentsEventKeyframe>","resourceVersion":"1.0","Keyframes":[],},
     "playback": 1,
-    "playbackSpeed": 30.0,
+    "playbackSpeed": 8.0,
     "playbackSpeedType": 0,
     "showBackdrop": true,
     "showBackdropImage": false,
@@ -55,6 +58,9 @@
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
             {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"76b8362f-b1a1-4fa3-a8be-580c6e30abdd","path":"sprites/s_laser/s_laser.yy",},},},"Disabled":false,"id":"d59210fd-41df-4805-83bb-fde83c85f0cc","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"759b1162-9c5d-4034-9a42-5cb431584b23","path":"sprites/s_laser/s_laser.yy",},},},"Disabled":false,"id":"3eac1017-e901-418b-b376-0f876cd29a1e","IsCreationKey":false,"Key":1.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"5b1d81d3-d446-469c-acae-d2c6d534d40e","path":"sprites/s_laser/s_laser.yy",},},},"Disabled":false,"id":"ed177948-fc01-4000-ab49-bec12c1bab37","IsCreationKey":false,"Key":2.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"7039695f-f407-4639-b3c5-931b2d6c2581","path":"sprites/s_laser/s_laser.yy",},},},"Disabled":false,"id":"8cf20cd7-1b21-41c7-ba3d-97dbbf046265","IsCreationKey":false,"Key":3.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

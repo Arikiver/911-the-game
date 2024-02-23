@@ -58,6 +58,7 @@
     {"name":"Object8","order":2,"path":"objects/Object8/Object8.yy",},
     {"name":"mountain","order":26,"path":"sprites/mountain/mountain.yy",},
     {"name":"treeset","order":15,"path":"sprites/treeset/treeset.yy",},
+    {"name":"bgm","order":23,"path":"objects/bgm/bgm.yy",},
     {"name":"inv_wall","order":16,"path":"sprites/inv_wall/inv_wall.yy",},
     {"name":"shine_run","order":33,"path":"sprites/shine_run/shine_run.yy",},
     {"name":"Object14","order":6,"path":"objects/Object14/Object14.yy",},

@@ -9,7 +9,6 @@ direction = point_direction(o_gosh.x,o_gosh.y, mouse_x,mouse_y);
 a=false;
 var max_length = 2000;
 if(keyboard_check(ord("E"))){
-	o_gosh.sprite_index = shine_run;
 	a=true;
 for(i=0;i<max_length;i++){
 
@@ -31,6 +30,7 @@ for(i=0;i<max_length;i++){
 			if(inst.hp == 0)
 			{
                instance_destroy();
+			   score ++;
 			}
 		}
 		break;
