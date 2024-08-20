@@ -12,6 +12,6 @@ The Team:
 
 We explored Game Maker, ibis, and other tools during the jam, learning a lot and having a blast. Enjoy the chaos and see if you can help our professor make it on time!
 
-![Local Image](img/Screenshot 2024-08-21 012156.png)
-![Local Image](img/Screenshot 2024-08-21 012228.png)
-![Local Image](img/Screenshot 2024-08-21 012420.png)
+![Screenshot1](https://github.com/user-attachments/assets/d1943932-f54b-40d1-8731-59d32bad4c65)
+![Screenshot2](https://github.com/user-attachments/assets/2d2691f6-18e0-438a-b521-79592855a13a)
+![Screenshot3](https://github.com/user-attachments/assets/84290b34-ed6c-4372-b525-62f3a06d4e37)
