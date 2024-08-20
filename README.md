@@ -5,9 +5,9 @@ Created in just 48 hours for the Global Game Jam 2024, with the theme "Make Me L
 
 The Team:
 
->Aaradhya Bhatiya – Programmer/Developer
->Swarnima Bisht – Programmer/Developer/Source Control
->Navya Nandini – Artist/Animator/Game Designer
->Harshika Bilwal – Artist/Animator/Assistant Programmer
+>Aaradhya Bhatiya – Programmer/Developer<br>
+>Swarnima Bisht – Programmer/Developer/Source Control<br>
+>Navya Nandini – Artist/Animator/Game Designer<br>
+>Harshika Bilwal – Artist/Animator/Assistant Programmer<br>
 
 We explored Game Maker, ibis, and other tools during the jam, learning a lot and having a blast. Enjoy the chaos and see if you can help our professor make it on time!
