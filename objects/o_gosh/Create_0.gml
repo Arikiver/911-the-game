@@ -12,3 +12,5 @@ flash = 0;
 
 vsp = 0;
 grv = 0.5;
+jumping = false;
+jumping_started = false;

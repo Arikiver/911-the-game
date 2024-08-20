@@ -1,3 +1,5 @@
+/// @description Initialize camera properties
+
 camWidth = 1920;
 camHeight = 1080;
 
@@ -8,3 +10,5 @@ y = follow.y;
 
 xTo = x;
 yTo = y;
+
+smooth_factor = 15; // Factor for smoothing camera movement

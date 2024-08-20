@@ -1,13 +1,14 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description Camera movement and follow
 
-if(follow != noone) 
-{
-	xTo = follow.x;
-	yTo = follow.y;
+// Update target position if the follow object is valid
+if (follow != noone) {
+    xTo = follow.x;
+    yTo = follow.y;
 }
 
-x += (xTo - x)/15;
-y += (yTo - y)/15;
+// Smoothly move camera towards target position
+x += (xTo - x) / smooth_factor;
+y += (yTo - y) / smooth_factor;
 
-camera_set_view_pos(view_camera[0],x-(camWidth*0.5)+600,y-(camHeight*0.5)-300);
+// Set the camera view position
+camera_set_view_pos(view_camera[0], x - (camWidth * 0.5), y - (camHeight * 0.5)-250);

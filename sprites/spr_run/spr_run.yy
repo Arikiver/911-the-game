@@ -2,7 +2,7 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_run",
-  "bbox_bottom": 194,
+  "bbox_bottom": 200,
   "bbox_left": 18,
   "bbox_right": 116,
   "bbox_top": 7,
