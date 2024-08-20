@@ -5,4 +5,3 @@ if(o_enemy.x-o_gosh.x<1000){
 hspeed = 5;
 direction = point_direction(x, y, o_gosh.x, o_gosh.y);
 }
-
