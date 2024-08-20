@@ -11,3 +11,7 @@ The Team:
 >Harshika Bilwal – Artist/Animator/Assistant Programmer<br>
 
 We explored Game Maker, ibis, and other tools during the jam, learning a lot and having a blast. Enjoy the chaos and see if you can help our professor make it on time!
+
+![Local Image](img/Screenshot 2024-08-21 012156.png)
+![Local Image](img/Screenshot 2024-08-21 012228.png)
+![Local Image](img/Screenshot 2024-08-21 012420.png)
