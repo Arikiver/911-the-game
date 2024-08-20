@@ -8,10 +8,10 @@ The Team:
 >Aaradhya Bhatiya – Programmer/Developer<br>
 >Swarnima Bisht – Programmer/Developer/Source Control<br>
 >Navya Nandini – Artist/Animator/Game Designer<br>
->Harshika Bilwal – Artist/Animator/Assistant Programmer<br>
+>Harshika Bilwal – Artist/Animator/Background music<br>
 
 We explored Game Maker, ibis, and other tools during the jam, learning a lot and having a blast. Enjoy the chaos and see if you can help our professor make it on time!
 
-![Screenshot1](https://github.com/user-attachments/assets/d1943932-f54b-40d1-8731-59d32bad4c65)
-![Screenshot2](https://github.com/user-attachments/assets/2d2691f6-18e0-438a-b521-79592855a13a)
+![Screenshot1](https://github.com/user-attachments/assets/d1943932-f54b-40d1-8731-59d32bad4c65)<br>
+![Screenshot2](https://github.com/user-attachments/assets/2d2691f6-18e0-438a-b521-79592855a13a)<br>
 ![Screenshot3](https://github.com/user-attachments/assets/84290b34-ed6c-4372-b525-62f3a06d4e37)
