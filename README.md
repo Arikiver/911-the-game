@@ -1,7 +1,12 @@
 # 9:11
-Jan 2024
-Made with GameMaker
+9:11 is a hilarious 2D runner game that captures the frantic adventure of a professor racing against the clock. The goal? To reach the classroom before the punch-in window closes at 9:10 AM! Armed with a laser beam shooting from his head—because it’s just that smooth—our professor must destroy pesky sheets of paper (students' doubts) and dodge mirrors (he’s a big fan of his own reflection).
 
-9:11 was developed for the Global Game Jam held at our college in early 2024. The game, built around the theme "make me laugh," is a 2D runner where players dodge obstacles to reach the goal. It features a humorous story based on faculty members from our college, presented as an inside joke.
+Created in just 48 hours for the Global Game Jam 2024, with the theme "Make Me Laugh", this game was a blast to make and play.
 
-The game's character design, environment, and obstacles were all crafted manually in Ibis, giving it a distinctive hand-drawn aesthetic. The project includes custom cutscenes and an engaging user interface to enhance the narrative experience. 9:11 received a lot of positive feedback from mentors and was a standout entry in the Global Game Jam.
+The Team:
+
+Aaradhya Bhatiya – Programmer/Developer
+Swarnima Bisht – Programmer/Developer/Source Control
+Navya Nandini – Artist/Animator/Game Designer
+Harshika Bilwal – Artist/Animator/Assistant Programmer
+We explored Game Maker, ibis, and other tools during the jam, learning a lot and having a blast. Enjoy the chaos and see if you can help our professor make it on time!
