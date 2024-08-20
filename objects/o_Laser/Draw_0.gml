@@ -1,20 +1,10 @@
-/// @description Insert description here
-// You can write your code in this editor
+// Draw laser
+if (a) {
+    draw_line(x, y, xEnd, yEnd);
 
-if(a==true){
-draw_line(x,y,xEnd,yEnd);
-for(j =0;j<length_laser;j++)
-{
-draw_sprite_ext(Sprite16,0,x+lengthdir_x(j,direction),y+lengthdir_y(j,direction),1,1,direction,c_white,1);
-
+    for (var j = 0; j < length_laser; j++) {
+        var lx = x + lengthdir_x(j, direction);
+        var ly = y + lengthdir_y(j, direction);
+        draw_sprite_ext(Sprite16, 0, lx, ly, 1, 1, direction, c_white, 1);
+    }
 }
-}
-
-
-
-
-
-
-
-
-
